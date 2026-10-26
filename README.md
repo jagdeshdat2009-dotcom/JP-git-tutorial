@@ -6,7 +6,7 @@ Git and GitHub: branching, committing, pull requests and merging.
 
 ## Collaborators
 - Jagdeshdat Persaud (@jagdeshdat2009-dotcom) – repository owner
-- Jane Doe (@janedoe) – collaborator and PR reviewer
+- Riyad Baksh (@bakshriyad031-source) – collaborator and PR reviewer
 
 ## Steps Followed
 1. Installed Git and set up my GitHub account
